@@ -1,2 +1,2 @@
 # MacroCheck
-Document dat dient ter verificatie van de uitschakelstatus van Office-macro's.
+Document that is used to verify the enabled or disabled status of Office macros.
